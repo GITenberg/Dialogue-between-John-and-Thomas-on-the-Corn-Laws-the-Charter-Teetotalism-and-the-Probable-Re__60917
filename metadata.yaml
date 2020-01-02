@@ -1,0 +1,29 @@
+_repo: Dialogue-between-John-and-Thomas-on-the-Corn-Laws-the-Charter-Teetotalism-and-the-Probable-Re__60917
+_version: 0.0.1
+alternative_title: Dialogue between John and Thomas, on the Corn Laws, the Charter,
+  Teetotalism, and the Probable Remedy for the Present Distresses
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/ebooks/author/216
+description: ''
+gutenberg_issued: '2019-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chartism'
+- !lcsh 'Temperance'
+- !lcsh 'Great Britain -- Economic conditions -- 19th century'
+- !lcc 'PR'
+- !lcc 'HB'
+- GITenberg
+title: Dialogue between John and Thomas, on the Corn Laws, the Charter, Teetotalism,
+  and the Probable Remedy for the Present Disstresses
+url: http://www.gutenberg.org/ebooks/60917
