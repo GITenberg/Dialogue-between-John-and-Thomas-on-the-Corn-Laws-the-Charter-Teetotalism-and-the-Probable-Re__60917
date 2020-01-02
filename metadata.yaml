@@ -1,7 +1,10 @@
 _repo: Dialogue-between-John-and-Thomas-on-the-Corn-Laws-the-Charter-Teetotalism-and-the-Probable-Re__60917
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Dialogue between John and Thomas, on the Corn Laws, the Charter,
   Teetotalism, and the Probable Remedy for the Present Distresses
+covers:
+- cover_type: archival
+  image_path: 60917-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60917#Dialogue-between-John-and-Thomas-on-the-Corn-Laws-the-Charter-Teetotalism-and-the-Probable-Re_
 gutenberg_issued: '2019-12-14'
 gutenberg_type: Text
 identifiers:
